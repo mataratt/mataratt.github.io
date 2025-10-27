@@ -1,8 +1,7 @@
 ---
 title: "About this website"
 output: 
-  html_document:
-    theme: cerulean
+  html_document
 ---
 
 This website was coded by Mati Rattanapan using RMarkdown to do all the hard work. 
